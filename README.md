@@ -1,8 +1,17 @@
-#👋 Sobre mim
-Olá! Me chamo Gil Belan, tenho 38 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo IFRN (2018). Sempre fui movido por curiosidade e pelo desejo de criar soluções práticas com tecnologia.
+# 👋 Olá! Eu sou o Gil Belan
 
-Atuei com desenvolvimento JavaScript, utilizando o Node.js como ambiente de execução e aplicando boas práticas de versionamento com o GitHub. Ao longo do tempo, mergulhei em projetos que me desafiaram a aprender rápido, escrever código limpo e colaborar com eficiência.
+🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFRN (2018)  
+💻 Experiência com JavaScript, Node.js e versionamento com GitHub  
+🚀 De volta ao mundo da programação, focado em evolução contínua
 
-Após um tempo afastado da área, decidi retomar minha jornada como programador, com ainda mais vontade de evoluir e colocar em prática tudo o que aprendi — e aprender muito mais! Estou atualizando minhas habilidades e desenvolvendo projetos autorais para mostrar o que posso entregar como desenvolvedor.
+Depois de um tempo afastado do desenvolvimento, estou retomando com tudo: estudando, desenvolvendo projetos autorais e ampliando minhas habilidades técnicas.  
 
-Se você procura alguém dedicado, curioso e com uma sólida base técnica para crescer junto com o time ou colaborar em projetos criativos, vamos conversar!
+🔧 Tecnologias de interesse:  
+- JavaScript (Node.js)
+- HTML, CSS
+- Git/GitHub  
+- APIs REST  
+- Projetos práticos voltados para soluções reais
+
+📫 Entre em contato e acompanhe meu progresso!  
+📍 LinkedIn: [www.linkedin.com/in/gil-santos-3842428a](https://www.linkedin.com/in/gil-santos-3842428a)
