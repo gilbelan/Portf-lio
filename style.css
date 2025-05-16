@@ -23,6 +23,34 @@
   box-sizing: border-box;
 }
 
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile-img img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--primary-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.profile-info h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.profile-info p {
+  font-size: 1.1rem;
+  color: #666;
+}
+
 body {
   font-family: 'Segoe UI', Tahoma, sans-serif;
   background-color: var(--bg-color);
